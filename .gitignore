@@ -50,3 +50,7 @@ venv.bak/
 .DS_Store
 Thumbs.db
 desktop.ini
+
+# Local drafts and legacy nested copies
+MATH_SMART_PARKING_PROJECT/
+MATH_SMART_PARKING_PROJECT_COLAB.ipynb
