@@ -4,6 +4,8 @@
 > **Institution:** Department of Artificial Intelligence & Data Science, PES University  
 > **Project Level:** Experiential Learning – Level 2 Mini Project  
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/aryanrangarej/MFAD-Smart-Parking-Optimization/blob/main/SmartParking_MFAD_Colab_Demo.ipynb)
+
 ---
 
 ## 👥 Team Members
@@ -199,8 +201,8 @@ $$i^* = \arg\min_{i \in \text{Eligible}} \mathcal{C}(i)$$
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
-   cd <repo-name>
+   git clone https://github.com/aryanrangarej/MFAD-Smart-Parking-Optimization.git
+   cd MFAD-Smart-Parking-Optimization
    ```
 
 2. (Optional) Create and activate a virtual environment:
