@@ -1,0 +1,5 @@
+vehicle_id,entry_gate,ev_required,accessible_required,size
+V01,G1,False,False,Compact
+V02,G1,True,False,Standard
+V03,G2,False,True,Standard
+V04,G2,True,True,Large
